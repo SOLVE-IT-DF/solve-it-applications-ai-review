@@ -1,4 +1,4 @@
-# solve-it-ai-applications
+# An index of AI applications in digital forensics - an application of the SOLVE-IT knowledge base
 
 ## Introduction
 This repository demonstrates an application of the SOLVE-IT knowledge base (https://github.com/SOLVE-IT-DF/solve-it) as described in Section 5.5 of the paper below:
