@@ -26,7 +26,7 @@ def get_inline_from_file(filepath):
         elif len(authors) == 1:
             author_str = authors[0].last_names[0]
         elif len(authors) == 2:
-            author_str = '{} & {}'.format(authors[0].last_names[0], authors[1].last_names[1])
+            author_str = '{} & {}'.format(authors[0].last_names[0], authors[1].last_names[0])
         else:
             author_str = '{} et al'.format(authors[0].last_names[0])
 
