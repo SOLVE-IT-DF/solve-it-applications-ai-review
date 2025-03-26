@@ -22,7 +22,7 @@ Categories are:
 
 ## PDF from DFRWS EU 2025
 
-The details of the review can be found in the [releases](https://github.com/SOLVE-IT-DF/solve-it-applications-ai-review/releases) section as a PDF for now. This will shortly be updated with a code repo that auto-generates the output using the SOLVE-IT repo. This is superseded by the bibtex implementation (see below)
+The details of the review can be found in the [releases](https://github.com/SOLVE-IT-DF/solve-it-applications-ai-review/releases) section as a PDF. This is superseded by the bibtex implementation (see below).
 
 
 ## Bibtex implementation
