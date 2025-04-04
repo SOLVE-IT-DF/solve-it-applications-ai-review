@@ -70,6 +70,8 @@ in_tool_citations = []
 for each_path in sorted(os.listdir(base_path)):
     if os.path.isdir(os.path.join(base_path, each_path)):
         if each_path != 'T1000':
+            non_ai_citations = app_env_citations = ac_idea_citations = ac_imp_citations = \
+                in_tool_citations = tuple()
             if os.path.exists(os.path.join(base_path, each_path, 'non-ai')):
                 non_ai_citations = get_all_inlines_from_path(os.path.join(base_path, each_path, 'non-ai'))
             if os.path.exists(os.path.join(base_path, each_path, 'app-env')):
