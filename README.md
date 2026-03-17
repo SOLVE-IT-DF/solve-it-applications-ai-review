@@ -1,3 +1,10 @@
+
+*This repository has been replaced with a [SOLVE-IT-X](https://github.com/SOLVE-IT-DF/solve-it-x) based version*
+Please see: https://github.com/SOLVE-IT-DF/solve-it-x-demo-ai-applicability-review
+
+
+
+
 # An index of AI applicability in digital forensics - an application of the SOLVE-IT knowledge base
 
 ## Introduction
